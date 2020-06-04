@@ -19,5 +19,6 @@ define view /HCLPRODS/I_BowLinkedRevisionc
       _diwps.TaskListGroupKey,
       _diwps.GroupCounter,
       _diwps.OrderNumber,
-      _diwps.WorkOrder
+     _diwps.WorkOrder 
+     
 }
